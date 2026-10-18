@@ -73,7 +73,7 @@ Other people build websites — I build **experiences**. I care about the part m
 ### 🌱 Currently
 
 - Shipping **Sowan** — now my thesis, heading into user testing
-- Pitching **Cermin Saku** and **Lencana** at the Indonesia Web3 Hackathon Demo Day (31 Oct)
+- Heading to the Indonesia Web3 Hackathon Demo Day (31 Oct) — **Lencana** invited to pitch, **Cermin Saku** a finalist
 - Building **BonBagi** for ZECATHON 2026 — one payment, split privately
 - Going deep on **AI-assisted product building** — building faster, weirder, with more soul
 

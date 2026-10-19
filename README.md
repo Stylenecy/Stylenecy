@@ -52,7 +52,7 @@ Other people build websites — I build **experiences**. I care about the part m
 | **[LEAP-2036](https://github.com/Stylenecy/LEAP-2036)** · [live](https://kknstem.vercel.app/leap/) | A gamified "future-self" experience for students | Built for a real classroom — values, goals & growth, playable offline |
 | **[GroundsToGrow](https://github.com/Stylenecy/GroundsToGrow)** | Circular-economy platform for coffee grounds | Turning waste into worth — MVP + pitch deck |
 | **[peran-gendis](https://github.com/Stylenecy/peran-gendis)** | Web platform for a community teaching movement | Tech in service of people who teach kids who'd otherwise be missed |
-| **[cermin-saku](https://github.com/Stylenecy/cermin-saku)** · [live](https://cermin-saku.vercel.app) | A scheduled allowance from a BNB vault — refused by the contract when the position isn't safe | Finalist, Indonesia Web3 Hackathon 2026 · built on Kiel's open-source Cermin |
+| **[cermin-saku](https://github.com/Stylenecy/cermin-saku)** · [live](https://cermin-saku.vercel.app) | A scheduled allowance from a BNB vault — refused by the contract when the position isn't safe | Top 15 of 228, Indonesia Web3 Hackathon 2026 · built on Kiel's open-source Cermin |
 | **[dex-portfolio](https://github.com/Stylenecy/dex-portfolio)** · [live](https://dex-portfolio.vercel.app) | My portfolio — cinematic, WebGL, 3D | Proof that a site can have a pulse |
 
 ---
@@ -73,7 +73,7 @@ Other people build websites — I build **experiences**. I care about the part m
 ### 🌱 Currently
 
 - Shipping **Sowan** — now my thesis, heading into user testing
-- Heading to the Indonesia Web3 Hackathon Demo Day (31 Oct) — **Lencana** invited to pitch, **Cermin Saku** a finalist
+- Heading to the Indonesia Web3 Hackathon Demo Day (31 Oct) with **Lencana** — final 10 of 228
 - Building **BonBagi** for ZECATHON 2026 — one payment, split privately
 - Going deep on **AI-assisted product building** — building faster, weirder, with more soul
 
